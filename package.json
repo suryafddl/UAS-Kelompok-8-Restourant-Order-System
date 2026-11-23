@@ -1,0 +1,21 @@
+{
+  "name": "uas-kelompok-8-order-system-restourant",
+  "version": "1.0.0",
+  "description": "**Anggota Kelompok:**\r 1. Muhammad Surya Fadillah - NIM 263140707111108\r 2. Gathan Viryasa Alhabby - NIM 263140707111099\r 3. I Gusti Ngurah Agung Manggala - NIM 263140707111085",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryafddl/UAS-Kelompok-8-Restourant-Order-System-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/suryafddl/UAS-Kelompok-8-Restourant-Order-System-/issues"
+  },
+  "homepage": "https://github.com/suryafddl/UAS-Kelompok-8-Restourant-Order-System-#readme"
+}

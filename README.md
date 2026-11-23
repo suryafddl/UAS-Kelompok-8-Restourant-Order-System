@@ -9,7 +9,7 @@
 ---
 
 ### Pembagian Tugas Per-Anggota
-| | No | Nama Anggota | Tugas |
-|:-:|1|---|---|
-| <img src="https://github.com/suryafddl.png" width="72"> | 1. | **Muhammad Surya Fadillah** <br>[@suryafddl](https://github.com/suryafddl) |  Setup repositories, struktur folder, <br> Struktur data dan data awal menu<br> Menu utama (loop sampai keluar)<br> **Create**: tambah menu, buat pesanan<br> Hitung subtotal<br> Gabung kode dan review pull request |
-| <img src="https://github.com/Viryasaa0.png" width="72"> | 2. | **Gathan Viryasa Alhabby**<br>[@Viryasaa0](https://github.com/Viryasaa0) |  **Update**: ubah menu dan pesanan (stok ikut menyesuaikan)<br> **Search**: cari menu dan pesanan<br> Diskon 10% dan pajak 10%<br> Pembayaran: total, kembalian, status Lunas, struk |
+| | Nama Anggota | Tugas |
+|:-:|---|---|
+| <img src="https://github.com/suryafddl.png" width="72"> | **Muhammad Surya Fadillah** <br>[@suryafddl](https://github.com/suryafddl) |  Setup repositories, struktur folder, <br> Struktur data dan data awal menu<br> Menu utama (loop sampai keluar)<br> **Create**: tambah menu, buat pesanan<br> Hitung subtotal<br> Gabung kode dan review pull request |
+| <img src="https://github.com/Viryasaa0.png" width="72"> | **Gathan Viryasa Alhabby**<br>[@Viryasaa0](https://github.com/Viryasaa0) |  **Update**: ubah menu dan pesanan (stok ikut menyesuaikan)<br> **Search**: cari menu dan pesanan<br> Diskon 10% dan pajak 10%<br> Pembayaran: total, kembalian, status Lunas, struk |
